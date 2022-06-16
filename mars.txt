@@ -1,1 +1,2 @@
 New .txt file
+Second sentence is here
